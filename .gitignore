@@ -1,10 +1,5 @@
 api_keys.py
 
-# OpenWeatherMap API Key
-weather_api_key = "8f90a39a9508cfb686c4e51ea78c53d2"
-
-# Geoapify API Key
-geoapify_key = "16ffde38208c4aa79ef29a0dc7abbc5b"
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
