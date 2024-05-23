@@ -1,0 +1,6 @@
+# add your api key to conncect it with the project
+# OpenWeatherMap API Key
+weather_api_key = ""
+
+# Geoapify API Key
+geoapify_key = ""
